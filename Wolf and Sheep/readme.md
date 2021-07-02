@@ -10,6 +10,7 @@
 
 ### فایل ها
 فایل `main.py` حاوی کد مربوط به این بخش است. باید ماتریس مجاورت گراف مورد نظر در `graph.txt` قرار گیرد. برای مثال، دو گراف در فایل های `success_graph.txt` و `fail_graph.txt` قرار داده ام که به ترتیب به شکل های زیر هستند:
+
 1- `success_graph`:
 
 <img src="https://cdn1.bbcode0.com/uploads/2021/7/2/56d330f51a13e5af0dc19c106d3cb68e-full.png" />
